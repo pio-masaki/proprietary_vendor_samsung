@@ -22,7 +22,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
     vendor/samsung/trlte/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/samsung/trlte/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
-    vendor/samsung/trlte/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+#    vendor/samsung/trlte/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/samsung/trlte/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/samsung/trlte/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
     vendor/samsung/trlte/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
